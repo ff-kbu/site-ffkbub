@@ -1,0 +1,3 @@
+key "0e2a81212e58930940670e777cf4049715b88b060740707a707b975c12441ba6";
+remote ipv4 "gw02.bonn.ffkbu.de" port 53111;
+float yes;

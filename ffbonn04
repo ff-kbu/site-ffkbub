@@ -1,0 +1,3 @@
+key "cf19517a179c0b32096944209c86e726ddd8573cbd7772584434cde8645a781c";
+remote ipv4 "gw05.bonn.ffkbu.de" port 53111;
+float yes;
